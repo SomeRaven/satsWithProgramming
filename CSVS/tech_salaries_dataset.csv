@@ -1,0 +1,501 @@
+JobTitle,YearsExperience,PrimaryLanguage,Salary
+Systems Analyst,11,Python,109297
+Software Engineer,19,Java,138752
+Software Engineer,6,JavaScript,104072
+Systems Analyst,11,Python,120673
+DevOps Engineer,0,JavaScript,105763
+Data Scientist,7,Java,128683
+Machine Learning Engineer,1,Java,133387
+Systems Analyst,19,Python,137424
+Data Scientist,14,R,142958
+Data Scientist,1,Java,117329
+Data Scientist,11,JavaScript,124768
+DevOps Engineer,17,JavaScript,162928
+Data Scientist,6,R,110625
+Software Engineer,9,Python,111717
+Data Scientist,1,Python,119578
+DevOps Engineer,2,Java,114996
+Software Engineer,13,Java,113874
+Software Engineer,15,R,128874
+Systems Analyst,12,Java,119262
+Systems Analyst,3,Java,98402
+Systems Analyst,18,C++,130303
+DevOps Engineer,17,Java,161453
+DevOps Engineer,20,R,154214
+Systems Analyst,6,Python,98313
+DevOps Engineer,13,Python,132145
+Data Scientist,12,Python,125592
+Data Scientist,15,Python,141657
+Software Engineer,17,Python,139349
+Software Engineer,19,JavaScript,140286
+Systems Analyst,12,Java,123579
+Software Engineer,7,Python,92375
+Data Scientist,3,R,115456
+Data Scientist,5,C++,103285
+Data Scientist,17,Python,146896
+Data Scientist,16,C++,157303
+Data Scientist,19,Java,150478
+Data Scientist,12,Python,146908
+Machine Learning Engineer,1,Java,135778
+Machine Learning Engineer,7,C++,147617
+Systems Analyst,1,C++,80629
+Systems Analyst,14,Python,133951
+Software Engineer,4,Java,91478
+Data Scientist,15,Java,144779
+Data Scientist,15,C++,146342
+Machine Learning Engineer,13,Java,163962
+Software Engineer,9,JavaScript,120684
+Data Scientist,9,C++,127747
+Machine Learning Engineer,13,Python,153330
+Systems Analyst,13,Java,113703
+Systems Analyst,2,JavaScript,101093
+Software Engineer,19,Java,134564
+DevOps Engineer,14,Python,153004
+Systems Analyst,19,Java,120362
+Systems Analyst,17,JavaScript,152677
+Data Scientist,5,Python,114747
+Data Scientist,0,JavaScript,97482
+Data Scientist,11,Python,151505
+Systems Analyst,6,Java,86556
+Machine Learning Engineer,3,Java,136133
+Systems Analyst,19,Python,119528
+Systems Analyst,16,C++,120780
+Systems Analyst,2,Python,92444
+Systems Analyst,15,JavaScript,115383
+Systems Analyst,14,Java,114583
+DevOps Engineer,1,JavaScript,112798
+Software Engineer,4,Java,100168
+DevOps Engineer,20,Python,175155
+Software Engineer,2,Python,86434
+Software Engineer,11,JavaScript,129998
+Systems Analyst,15,Java,113715
+Software Engineer,11,Java,108401
+Machine Learning Engineer,20,Python,179148
+Systems Analyst,12,Python,110367
+DevOps Engineer,18,R,138064
+Software Engineer,11,Java,118489
+Systems Analyst,11,JavaScript,129166
+Systems Analyst,15,C++,117574
+Software Engineer,17,JavaScript,131745
+Software Engineer,9,JavaScript,116264
+Systems Analyst,2,R,86980
+Data Scientist,8,C++,115408
+Systems Analyst,20,JavaScript,138829
+Systems Analyst,16,C++,120767
+Data Scientist,1,C++,98723
+Machine Learning Engineer,4,C++,141545
+DevOps Engineer,10,C++,152790
+Data Scientist,20,Python,163759
+Software Engineer,4,Java,100642
+Data Scientist,1,JavaScript,107786
+Data Scientist,17,Python,147800
+DevOps Engineer,4,Java,113371
+Machine Learning Engineer,9,Java,159978
+Data Scientist,6,Java,121005
+DevOps Engineer,12,Python,136140
+Systems Analyst,1,Java,83688
+Systems Analyst,7,Java,108285
+Software Engineer,2,C++,89872
+Data Scientist,20,Java,148287
+Software Engineer,9,Python,115895
+Data Scientist,2,Python,100257
+Systems Analyst,14,C++,121843
+Systems Analyst,9,C++,98531
+Software Engineer,14,R,139935
+Software Engineer,8,JavaScript,121710
+Data Scientist,20,Java,160750
+Systems Analyst,15,C++,118035
+DevOps Engineer,19,Java,154209
+Systems Analyst,12,Python,120813
+Machine Learning Engineer,0,Java,134349
+Data Scientist,3,Python,107552
+Data Scientist,6,C++,112267
+Data Scientist,17,Python,145133
+Software Engineer,3,Java,98786
+DevOps Engineer,20,R,153906
+Data Scientist,6,Python,115394
+Systems Analyst,16,Python,117689
+Systems Analyst,18,Python,126359
+Systems Analyst,13,R,119549
+Software Engineer,19,R,148968
+Machine Learning Engineer,7,Python,144293
+Machine Learning Engineer,9,R,141728
+Software Engineer,6,JavaScript,95442
+Software Engineer,0,Java,85886
+Systems Analyst,8,R,95047
+Machine Learning Engineer,1,JavaScript,134754
+Machine Learning Engineer,3,Java,140448
+Software Engineer,6,C++,104223
+Systems Analyst,4,C++,84295
+DevOps Engineer,1,Python,121368
+Data Scientist,15,Python,149509
+DevOps Engineer,13,Java,133222
+Software Engineer,8,Python,114136
+Systems Analyst,5,Java,94275
+Machine Learning Engineer,12,R,160611
+Machine Learning Engineer,15,Java,169850
+Software Engineer,18,C++,118657
+Data Scientist,4,Python,118077
+Software Engineer,8,R,117389
+Data Scientist,1,C++,99651
+Systems Analyst,4,Python,100581
+Software Engineer,11,Python,110183
+Software Engineer,9,R,109529
+Machine Learning Engineer,9,R,142770
+Systems Analyst,18,C++,132960
+Data Scientist,10,Python,125063
+DevOps Engineer,11,Python,151797
+DevOps Engineer,16,JavaScript,156287
+Software Engineer,0,JavaScript,101509
+DevOps Engineer,3,Java,114515
+DevOps Engineer,4,Java,126377
+Software Engineer,13,Python,119395
+DevOps Engineer,13,Python,158834
+Software Engineer,20,Python,140917
+Data Scientist,2,R,101599
+Systems Analyst,17,JavaScript,123857
+Software Engineer,2,Python,112964
+Systems Analyst,10,Python,117678
+Machine Learning Engineer,6,C++,143746
+Systems Analyst,13,JavaScript,116023
+Data Scientist,15,JavaScript,148101
+Data Scientist,4,Python,100179
+DevOps Engineer,20,R,147983
+Systems Analyst,12,Python,110801
+Software Engineer,15,Java,125877
+Systems Analyst,13,Java,124391
+DevOps Engineer,6,R,117637
+Data Scientist,9,C++,131345
+Machine Learning Engineer,7,Java,135653
+DevOps Engineer,16,Java,147597
+Systems Analyst,2,JavaScript,103740
+DevOps Engineer,18,Python,157826
+Software Engineer,1,Python,87578
+Machine Learning Engineer,2,R,128158
+DevOps Engineer,17,Java,158192
+Machine Learning Engineer,14,Python,166416
+Software Engineer,14,Java,131862
+Software Engineer,8,JavaScript,117568
+Software Engineer,12,Java,124039
+Data Scientist,16,JavaScript,131955
+Data Scientist,12,Java,139991
+Systems Analyst,17,JavaScript,133334
+Software Engineer,11,Python,110714
+Software Engineer,4,Java,88410
+DevOps Engineer,12,Java,123853
+Data Scientist,10,Python,126312
+DevOps Engineer,15,R,152361
+Software Engineer,12,R,130315
+Systems Analyst,3,Java,93392
+Machine Learning Engineer,18,Python,172114
+Systems Analyst,0,Python,76909
+Software Engineer,13,Python,126378
+DevOps Engineer,1,Java,117444
+Data Scientist,4,Python,107059
+Systems Analyst,16,JavaScript,130135
+Software Engineer,6,Java,116906
+Systems Analyst,8,JavaScript,107471
+Software Engineer,15,R,141031
+DevOps Engineer,13,Python,137212
+Data Scientist,0,C++,89687
+Software Engineer,1,JavaScript,96255
+Systems Analyst,5,R,105458
+Software Engineer,2,Python,92606
+Systems Analyst,1,C++,91175
+Machine Learning Engineer,10,Python,147510
+DevOps Engineer,20,JavaScript,178440
+Systems Analyst,6,Python,112259
+Software Engineer,9,C++,117085
+Systems Analyst,14,R,129033
+Systems Analyst,1,Java,80982
+Software Engineer,3,Python,100660
+DevOps Engineer,6,Java,105186
+Systems Analyst,0,C++,75883
+Data Scientist,7,C++,118275
+DevOps Engineer,6,Python,101445
+Data Scientist,16,JavaScript,147179
+Data Scientist,19,C++,139351
+Software Engineer,5,Python,100546
+Data Scientist,2,C++,115023
+DevOps Engineer,16,Python,156652
+Software Engineer,10,Python,101628
+Data Scientist,19,Java,156051
+Machine Learning Engineer,8,JavaScript,154715
+Software Engineer,8,JavaScript,101247
+Machine Learning Engineer,20,Python,163799
+Machine Learning Engineer,19,C++,190345
+Software Engineer,13,C++,127615
+Data Scientist,5,Python,126519
+Systems Analyst,19,R,124271
+Data Scientist,14,Python,135651
+Software Engineer,17,Python,125918
+Software Engineer,19,Java,127766
+Software Engineer,2,C++,103745
+Software Engineer,20,Python,127960
+DevOps Engineer,7,Python,122906
+Machine Learning Engineer,19,Java,181201
+Software Engineer,11,JavaScript,118306
+Data Scientist,4,C++,116450
+Machine Learning Engineer,0,Python,112219
+Systems Analyst,8,Python,108439
+Systems Analyst,16,Java,112370
+Software Engineer,2,JavaScript,90831
+Data Scientist,17,C++,152484
+Machine Learning Engineer,5,Java,147239
+Data Scientist,11,Java,129209
+Software Engineer,5,JavaScript,98765
+Data Scientist,3,Java,118474
+Machine Learning Engineer,20,JavaScript,174877
+Data Scientist,18,R,158349
+DevOps Engineer,2,R,106815
+DevOps Engineer,13,JavaScript,155264
+Software Engineer,1,Python,97253
+Data Scientist,10,Java,134109
+DevOps Engineer,8,Python,132310
+Data Scientist,5,C++,123897
+Software Engineer,8,Python,114887
+Machine Learning Engineer,17,JavaScript,154898
+Systems Analyst,19,Python,138705
+Machine Learning Engineer,16,JavaScript,154292
+Software Engineer,20,Java,139675
+Software Engineer,20,JavaScript,147656
+Systems Analyst,10,Java,119082
+Software Engineer,8,C++,101916
+Machine Learning Engineer,18,Java,168556
+Software Engineer,20,R,141227
+Data Scientist,2,JavaScript,99223
+Software Engineer,1,Java,89358
+Software Engineer,2,Python,90440
+Software Engineer,19,R,149450
+Data Scientist,16,Python,128489
+Systems Analyst,20,C++,138121
+Software Engineer,10,R,108633
+Data Scientist,16,Python,141986
+Software Engineer,11,Python,125337
+Data Scientist,2,JavaScript,110463
+Systems Analyst,13,JavaScript,113355
+Software Engineer,6,Java,108275
+Systems Analyst,7,Python,94334
+Software Engineer,18,Python,128755
+Systems Analyst,1,R,86065
+Software Engineer,6,JavaScript,107781
+Machine Learning Engineer,15,JavaScript,161131
+Software Engineer,0,Java,79916
+Software Engineer,13,Python,113759
+DevOps Engineer,2,Python,117861
+Software Engineer,13,Python,114448
+DevOps Engineer,17,R,156111
+Machine Learning Engineer,2,R,136770
+Machine Learning Engineer,5,JavaScript,128209
+DevOps Engineer,12,Python,129387
+Machine Learning Engineer,10,Java,145485
+Data Scientist,4,Python,122102
+Machine Learning Engineer,10,Python,157995
+Data Scientist,1,C++,106872
+Machine Learning Engineer,11,Java,153232
+Software Engineer,0,Python,96110
+Machine Learning Engineer,17,Python,160733
+DevOps Engineer,7,Java,121557
+DevOps Engineer,20,Python,167438
+Software Engineer,18,Java,129003
+Systems Analyst,1,Python,79585
+Software Engineer,16,Java,128413
+DevOps Engineer,7,Java,124946
+Software Engineer,18,Python,129463
+Software Engineer,3,JavaScript,104331
+Software Engineer,9,R,103514
+Machine Learning Engineer,10,Java,150163
+Data Scientist,13,Python,151262
+Systems Analyst,13,R,128881
+Systems Analyst,10,Java,117520
+Software Engineer,10,C++,126372
+Systems Analyst,3,C++,100226
+Systems Analyst,9,Java,107153
+Software Engineer,13,Python,130399
+Data Scientist,17,R,131100
+Data Scientist,16,Python,146096
+Machine Learning Engineer,5,Java,142188
+Systems Analyst,4,Python,98172
+Machine Learning Engineer,18,Python,175662
+Systems Analyst,5,JavaScript,96728
+Systems Analyst,10,Java,119250
+Software Engineer,11,Python,112734
+Data Scientist,2,Python,115539
+Machine Learning Engineer,14,JavaScript,170480
+Software Engineer,3,R,102007
+Software Engineer,12,Python,115710
+Data Scientist,13,C++,151777
+Data Scientist,13,Python,129819
+Machine Learning Engineer,5,C++,144347
+Software Engineer,10,Java,107229
+Machine Learning Engineer,2,R,134721
+Systems Analyst,8,Python,101786
+Machine Learning Engineer,14,R,163023
+Systems Analyst,6,Java,95368
+DevOps Engineer,3,Python,125772
+Data Scientist,11,C++,147978
+Data Scientist,14,Python,150809
+Data Scientist,17,Python,148622
+DevOps Engineer,7,Python,134107
+Data Scientist,14,R,138233
+Software Engineer,5,Java,110808
+Machine Learning Engineer,16,JavaScript,156252
+Machine Learning Engineer,18,Java,174343
+Data Scientist,0,Java,108075
+Systems Analyst,20,Java,136526
+Software Engineer,20,R,155130
+Software Engineer,7,C++,100019
+Data Scientist,13,Python,134966
+Data Scientist,6,Python,120231
+Machine Learning Engineer,8,Python,138354
+DevOps Engineer,10,Java,133627
+DevOps Engineer,2,Java,117984
+Machine Learning Engineer,14,JavaScript,142729
+Data Scientist,20,JavaScript,160312
+Software Engineer,19,Python,133413
+Software Engineer,4,R,92432
+Data Scientist,4,Java,109754
+Software Engineer,15,Java,131853
+Software Engineer,5,Java,96206
+Systems Analyst,6,C++,114841
+Data Scientist,14,JavaScript,143531
+Systems Analyst,17,C++,121469
+Software Engineer,8,R,97355
+Systems Analyst,13,C++,115060
+Software Engineer,14,JavaScript,130692
+Software Engineer,2,Python,94962
+DevOps Engineer,18,C++,151809
+Systems Analyst,6,C++,98498
+Data Scientist,10,Python,129523
+Systems Analyst,1,JavaScript,81773
+Systems Analyst,0,C++,103109
+Machine Learning Engineer,5,Python,144324
+Systems Analyst,2,Java,84172
+Software Engineer,13,Java,106531
+DevOps Engineer,18,Python,159090
+DevOps Engineer,4,Python,127948
+Software Engineer,20,Java,141855
+DevOps Engineer,10,C++,134362
+Data Scientist,3,Python,112206
+DevOps Engineer,4,Python,119720
+Software Engineer,11,JavaScript,115524
+Data Scientist,14,JavaScript,139902
+Machine Learning Engineer,0,C++,124111
+Systems Analyst,6,Python,106571
+DevOps Engineer,19,Java,167023
+Systems Analyst,8,Java,110022
+Software Engineer,19,C++,149817
+Data Scientist,16,R,153125
+DevOps Engineer,3,Java,129990
+Systems Analyst,2,Java,95406
+Software Engineer,15,C++,128989
+Software Engineer,8,C++,123193
+Data Scientist,16,Java,138812
+Machine Learning Engineer,6,Java,153006
+Data Scientist,15,Python,141893
+Software Engineer,12,Python,130808
+Data Scientist,17,Python,151224
+Software Engineer,7,Python,102602
+Data Scientist,1,JavaScript,104369
+Software Engineer,10,Java,131491
+DevOps Engineer,13,Python,139620
+Data Scientist,19,JavaScript,165761
+Software Engineer,15,Python,139188
+Machine Learning Engineer,10,Python,149846
+Data Scientist,18,Python,142762
+Machine Learning Engineer,8,R,150197
+Software Engineer,8,Python,102661
+DevOps Engineer,1,C++,129208
+Data Scientist,7,R,132185
+Data Scientist,6,C++,106856
+Software Engineer,3,JavaScript,103982
+Software Engineer,20,Python,138689
+Data Scientist,3,C++,106213
+Machine Learning Engineer,15,C++,167304
+Systems Analyst,3,Java,78562
+Data Scientist,8,JavaScript,119400
+Systems Analyst,2,C++,84388
+Software Engineer,9,JavaScript,104777
+Software Engineer,3,JavaScript,93367
+Data Scientist,8,Java,134565
+Machine Learning Engineer,0,Java,122107
+Systems Analyst,0,Java,93430
+Software Engineer,8,Python,97395
+Machine Learning Engineer,2,Java,122245
+DevOps Engineer,10,Java,140729
+Data Scientist,18,Python,146715
+Machine Learning Engineer,0,Python,115186
+Machine Learning Engineer,5,Java,132724
+Data Scientist,13,Python,140836
+Systems Analyst,17,R,117562
+Data Scientist,10,Java,120356
+Software Engineer,19,Java,117108
+Software Engineer,17,Python,138886
+Software Engineer,19,Java,145864
+Software Engineer,19,Python,129556
+Data Scientist,19,Python,156838
+Software Engineer,9,Python,116384
+Machine Learning Engineer,12,JavaScript,160935
+Software Engineer,17,Java,140916
+Systems Analyst,8,Python,109937
+Data Scientist,14,Python,133457
+Data Scientist,15,C++,150100
+Data Scientist,3,C++,104781
+Machine Learning Engineer,11,JavaScript,151155
+Software Engineer,14,Java,117975
+Software Engineer,10,Java,111505
+Machine Learning Engineer,0,JavaScript,124193
+Machine Learning Engineer,20,Java,177739
+Software Engineer,14,C++,130961
+Systems Analyst,7,Java,107895
+Software Engineer,9,Java,121559
+Software Engineer,5,Python,103244
+DevOps Engineer,6,Python,107803
+Data Scientist,20,JavaScript,163990
+Systems Analyst,5,Java,86493
+Machine Learning Engineer,14,R,171009
+Software Engineer,11,Java,121483
+Software Engineer,6,Python,120969
+Software Engineer,19,Java,140423
+DevOps Engineer,14,Python,142717
+Machine Learning Engineer,4,C++,132895
+Data Scientist,2,Python,119825
+Data Scientist,7,JavaScript,123667
+Systems Analyst,12,Java,107910
+Machine Learning Engineer,17,Java,174502
+Systems Analyst,17,Java,114837
+Software Engineer,17,Java,131316
+DevOps Engineer,18,Java,170026
+Software Engineer,16,Python,144292
+Software Engineer,7,Java,109274
+Systems Analyst,20,Java,129430
+Software Engineer,3,Java,94054
+DevOps Engineer,5,C++,127364
+Data Scientist,15,Python,148235
+Software Engineer,4,Java,99543
+Machine Learning Engineer,9,Java,135937
+Software Engineer,9,Python,123884
+Systems Analyst,10,Java,106835
+Software Engineer,7,Python,111402
+DevOps Engineer,4,Java,142349
+Software Engineer,9,JavaScript,108510
+Software Engineer,10,Python,112768
+Systems Analyst,9,Java,107897
+DevOps Engineer,17,Python,154771
+Systems Analyst,2,Python,71240
+Software Engineer,1,C++,102924
+Software Engineer,12,Python,118635
+Data Scientist,13,Python,139872
+Software Engineer,2,Python,96224
+DevOps Engineer,18,R,150580
+Software Engineer,15,Python,123949
+Systems Analyst,17,Java,132212
+Machine Learning Engineer,14,Python,151057
+Machine Learning Engineer,12,Java,161361
+Software Engineer,11,Python,107902
+Software Engineer,11,C++,113108
+Machine Learning Engineer,5,Python,139423
+Machine Learning Engineer,6,C++,133078
+Machine Learning Engineer,5,Python,146430
+Data Scientist,0,Python,99224
+DevOps Engineer,3,Python,110821

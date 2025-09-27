@@ -1,0 +1,26 @@
+Employment Status,Credit History,Income Level,Collateral,Loan Approved
+Unemployed,Good,High,No,Yes
+Salaried,Poor,Medium,No,No
+Salaried,Poor,Low,No,Yes
+Unemployed,Poor,High,No,No
+Self-Employed,Poor,Medium,Yes,No
+Salaried,Average,High,No,No
+Salaried,Good,Low,No,Yes
+Salaried,Average,Medium,Yes,No
+Unemployed,Poor,Low,No,Yes
+Salaried,Average,High,Yes,Yes
+Unemployed,Good,Medium,Yes,No
+Unemployed,Good,High,Yes,No
+Unemployed,Poor,High,Yes,No
+Salaried,Average,Medium,No,No
+Unemployed,Average,High,No,Yes
+Self-Employed,Average,Low,No,Yes
+Salaried,Good,High,Yes,No
+Salaried,Good,Low,No,Yes
+Salaried,Average,Low,Yes,Yes
+Salaried,Good,High,Yes,Yes
+Salaried,Good,Low,Yes,Yes
+Unemployed,Average,Medium,No,Yes
+Unemployed,Good,Low,No,No
+Salaried,Average,Low,No,Yes
+Unemployed,Average,Low,Yes,No
